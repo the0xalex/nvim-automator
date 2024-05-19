@@ -1,4 +1,6 @@
-<img align="center" valign="center" height="256" width="256" src="./docs/nvim.png" alt="neovim" />
+<p align="center">
+  <img align="center" valign="center" height="256" width="256" src="./docs/nvim.png" alt="neovim" />
+</p>
 <h1 align="center">Neovim and MacOS Automator Integration</h1>
 
 ## Overview
