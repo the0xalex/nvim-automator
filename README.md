@@ -36,8 +36,8 @@ icon in their dock. The automator icon is ugly, so I included the icon I use.
 > 3. Click the current applet icon in the top of the info window, and paste (cmd + v)
 
 ## Acknowledgements
-Included a MacOS Icon file shared on Reddit as an open download by 
-Reddit user [u/danbee](https://www.reddit.com/user/danbee/).
+Included a MacOS Icon file that I didn't make.
+File was originally shared in this [Reddit post](https://www.reddit.com/r/neovim/comments/13713rq/i_made_a_neovim_icon_for_macos_download_link_in/) by Reddit user [u/danbee](https://www.reddit.com/user/danbee/).
 
 ## License
 [WTFPL](http://www.wtfpl.net/). Do whatever you want.
